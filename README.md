@@ -17,8 +17,8 @@ Vers: Beta 1.0
 * Closed rooftops and stadium (custom made by me)
 
 >SFM Coords n' Info
-* Statuon Lift Bridge - 22458.4 | -9936.82 | 1529.39
-* Statuon Lift Bridge Weights - 22422.1 | -10086.1 | 4554.22
+* Statuon Lift Bridge | 22458.4 | -9936.82 | 1529.39
+* Statuon Lift Bridge Weights | 22422.1 | -10086.1 | 4554.22
 
 # Known issues:
 Framerate drops in some spots
